@@ -1,7 +1,7 @@
 # Move!
 
 This is a graphics demo I wrote in QBasic back when I was a teenager. 
-The code was miraculously preserved on Pete's QBasic site, where I [submitted it for review](http://petesqbsite.com/reviews/graphics/move.html) getting a respectable 80%. It still works in DosBox.
+The code was miraculously preserved on [Pete's QBasic site](http://petesqbsite.com/), where I [submitted it for review](http://petesqbsite.com/reviews/graphics/move.html) getting a respectable 80%. It still works in DosBox.
 
 ![image](moving.gif)
 
